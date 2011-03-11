@@ -1,6 +1,0 @@
-#Simple PWS Configuration File
-Chad_Frederick_Bucket:
- - Music:
-    - root: /Users/chad/Music
-    - include:
-        - /Random
